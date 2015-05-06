@@ -1,8 +1,8 @@
-# README
-## Subject - Course Project 1 - Coursera "Exploratory Data Analysis", Session May 2015 
-## Author - Brian Berry (brian.a.berry@protonmail.ch) 
+## README
+### Subject - Course Project 1 - Coursera "Exploratory Data Analysis", Session May 2015 
+### Author - Brian Berry (brian.a.berry@protonmail.ch) 
 
-## Repository Contents
+### Repository Contents
 
 ### 4 PNG files containing the 4 plots
 * plot1.png
@@ -22,10 +22,9 @@
 
 ## Notes
 
-### All 4 scripts use a function ( getdata ) that checks for the data, downloads it if necessary and unzips it
-if necessary. Data is loaded in each script.
+* All 4 scripts use a function ( getdata ) that checks for the data, downloads it if necessary and unzips it if necessary. Data is loaded in each script.
 
-### All data is kept in a subdirectory "/data", within the working directory.
+* All data is kept in a subdirectory "/data", within the working directory.
 
-### All scripts rely on the packages "png" and "graphics" 
+* All scripts rely on the packages "png" and "graphics" 
 
