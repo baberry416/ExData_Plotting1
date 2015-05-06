@@ -19,9 +19,9 @@ getdata <- function () {
         if ( (!file.exists ("./data/household_power_consumption.txt") ) | new_file ) {unzip ("./data/data.zip", exdir="./data", overwrite=TRUE) }
 
         return ("./data/household_power_consumption.txt")
-} 
+}
 
-#-----------Plot 3 - ------------------
+#-----------Plot 4 - ------------------
 png ("plot4.png", width=480, height=480)
 
 # Get data and load it
